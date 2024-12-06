@@ -43,13 +43,15 @@ O PlatformIO é um ambiente de desenvolvimento integrado (IDE) que facilita o de
 #### 1. Preparação do Ambiente
 1. **Instalar o VSCode**:
    - Baixe e instale o VSCode conformo vídeo abaixo: 
-   
-   <iframe title="YouTube video player"
-    src="https://www.youtube.com/embed/FOqKMPX6BMo?si=QWppA1g9k69VLjN4"
-    width="560" height="315" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen="allowfullscreen"></iframe>
-
+   <h2>Vídeo Demonstrativo</h2>
+   <div align="center">
+      <iframe title="YouTube video player"
+         src="https://www.youtube.com/embed/FOqKMPX6BMo?si=QWppA1g9k69VLjN4"
+         width="560" height="315" frameborder="0"
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+         allowfullscreen="allowfullscreen">
+      </iframe>
+   </div>
 
 2. **Adicionar Extensões**:
    - Instale as extensões PlatformIO IDE, GitHub Pull Requests and Issues e GitLens.
