@@ -55,7 +55,8 @@ O PlatformIO é um ambiente de desenvolvimento integrado (IDE) que facilita o de
 1. **Criar um Projeto no PlatformIO**:
    - Configure o projeto para usar ESP32 Dev Module com o framework Arduino.
 2. **Testar o Projeto**:
-   - Substitua o código no arquivo `src/main.cpp` pelo exemplo fornecido e faça o upload para o ESP32.
+   - Substitua o código no arquivo `src/main.cpp` pelo exemplo fornecido e faça o upload para o ESP32. O video abaixo demostra isso:  
+   [![Assista ao Vídeo](https://img.youtube.com/vi/HSSXU4XHBYY/hqdefault.jpg)](https://www.youtube.com/watch?v=HSSXU4XHBYY)
 
 #### 3. Integração com GitHub
 - Utilize o Git integrado ao VSCode para:
@@ -63,7 +64,14 @@ O PlatformIO é um ambiente de desenvolvimento integrado (IDE) que facilita o de
   - Fazer commits e sincronizar o código.
   - Criar branches e pull requests.
 
-#### 4. Atualizações e Colaboração
+O video abaixo apresenta como fazer tudo isso:  
+[![Assista ao Vídeo](https://img.youtube.com/vi/B_RTIOYZmvw/hqdefault.jpg)](https://www.youtube.com/watch?v=B_RTIOYZmvw)
+
+#### 4. Observações importantes
+- Veja o video abaixo para que os processos interativos entre o github e vscode funcionem adequadamente.
+[![Assista ao Vídeo](https://img.youtube.com/vi/6QpcVrRDbp4/hqdefault.jpg)](https://www.youtube.com/watch?v=6QpcVrRDbp4)
+
+#### 5. Atualizações e Colaboração
 1. **Trabalhar em Equipe**:
    - Utilize pull requests para revisar e integrar código.
 2. **Adicionar `.gitignore`**:
@@ -104,6 +112,13 @@ Para garantir que seu projeto seja bem documentado e fácil de manter, siga esta
 Em geral, ao escrever uma mensagem de commit, pense na pessoa que estará lendo a mensagem muito tempo depois, quando as circunstâncias poderão ter mudado e a pessoa pode não ter conhecimento do contexto original. Dessa forma, mantenha a mensagem clara, objetiva e forneça o contexto necessário para ajudar outros desenvolvedores a entender rapidamente o que foi feito.
 
 Mantenha essas práticas em mente ao trabalhar com o Git, e você verá que será mais fácil gerenciar e manter o código organizado e eficiente. 😉
+
+## Tarefa a ser executada: 
+
+- Faça um led piscar.
+- A comunicação serial não pode parar. 
+- Use o simulIDE para testar seu código.
+- Não use delay no loop.
 
 ### Referências
 - [Documentação do PlatformIO](https://platformio.org/)
