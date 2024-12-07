@@ -1,5 +1,5 @@
 # Instrumentação Industrial I
-## Aula Prática 01: Trabalhando com GitHub e PlatformIO no VSCode com ESP32
+## Aula Prática 02: Trabalhando com GitHub e PlatformIO no VSCode com ESP32
 
 ### Introdução
 
