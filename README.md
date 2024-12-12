@@ -41,6 +41,9 @@ O PlatformIO é um ambiente de desenvolvimento integrado (IDE) que facilita o de
 ### Procedimento Experimental
 
 #### 1. Preparação do Ambiente
+1. **Instalando o Python**:
+   - Veja o video de como proceder com a instalação correta do python:
+   [![Assista ao Vídeo](https://img.youtube.com/vi/CF1MhdQCnfc/hqdefault.jpg)](https://www.youtube.com/watch?v=CF1MhdQCnfc)
 1. **Instalar o VSCode**:
    - Baixe e instale o VSCode conformo vídeo abaixo: 
    [![Assista ao Vídeo](https://img.youtube.com/vi/FOqKMPX6BMo/hqdefault.jpg)](https://www.youtube.com/watch?v=FOqKMPX6BMo)
