@@ -1,6 +1,13 @@
 #include <Arduino.h>
+#define PINLED 3
 
 float i = 0;
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(PINLED,OUTPUT);
+}
+
 void loop()
 {
   i += 0.1;
