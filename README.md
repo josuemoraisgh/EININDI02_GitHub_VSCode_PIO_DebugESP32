@@ -41,14 +41,17 @@ O PlatformIO é um ambiente de desenvolvimento integrado (IDE) que facilita o de
 ### Procedimento Experimental
 
 #### 1. Preparação do Ambiente
-1. **Instalar o VSCode**:
+1. **Instalando o Python**:
+   - Veja o video de como proceder com a instalação correta do python:
+   [![Assista ao Vídeo](https://img.youtube.com/vi/CF1MhdQCnfc/hqdefault.jpg)](https://www.youtube.com/watch?v=CF1MhdQCnfc)
+2. **Instalar o VSCode**:
    - Baixe e instale o VSCode conformo vídeo abaixo: 
    [![Assista ao Vídeo](https://img.youtube.com/vi/FOqKMPX6BMo/hqdefault.jpg)](https://www.youtube.com/watch?v=FOqKMPX6BMo)
-2. **Adicionar Extensões**:
+3. **Adicionar Extensões**:
    - Instale as extensões PlatformIO IDE, GitHub Pull Requests and Issues e GitLens.
-3. **Configurar GitHub no VSCode**:
+4. **Configurar GitHub no VSCode**:
    - Faça login no GitHub utilizando a extensão GitHub Pull Requests and Issues.
-4. **Instalar o PlatformIO**:
+5. **Instalar o PlatformIO**:
    - Após instalar a extensão, reinicie o VSCode para concluir a configuração.
 
 #### 2. Criação de Projetos
