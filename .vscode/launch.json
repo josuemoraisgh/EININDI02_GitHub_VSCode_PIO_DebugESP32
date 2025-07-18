@@ -51,7 +51,7 @@
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
-    ]
+    ],
     "inputs": [
     {
       "id": "gdbServerAddress",
