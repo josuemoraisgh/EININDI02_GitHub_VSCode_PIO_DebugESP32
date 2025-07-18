@@ -16,7 +16,7 @@
             "cwd": "${workspaceFolder}",
             "MIMode": "gdb",
             "miDebuggerPath": "${env:USERPROFILE}\\.platformio\\packages\\toolchain-xtensa-esp32\\bin\\xtensa-esp32-elf-gdb.exe",
-            "miDebuggerServerAddress": "localhost:3333",
+            "miDebuggerServerAddress": "${input:gdbServerAddress}",
             "stopAtEntry": false
         },
         {
@@ -52,4 +52,12 @@
             "loadMode": "manual"
         }
     ]
+    "inputs": [
+    {
+      "id": "gdbServerAddress",
+      "type": "promptString",
+      "description": "Digite o endereço do servidor GDB",
+      "default": "localhost:3333"
+    }
+  ]
 }
