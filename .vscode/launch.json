@@ -53,17 +53,17 @@
         }
     ],
     "inputs": [
-    {
-      "id": "gdbServerAddress",
-      "type": "promptString",
-      "description": "Digite o endereço do servidor GDB",
-      "default": "localhost:3333"
-    },
-    {
-    "id": "buildFolder",
-    "type": "promptString",
-    "description": "Digite o nome da pasta de build (ex: esp32)",
-    "default": "esp32"
-    }
-  ]
+        {
+            "id": "gdbServerAddress",
+            "type": "promptString",
+            "description": "Digite o endereço do servidor GDB",
+            "default": "localhost:3333"
+        },
+        {
+            "id": "buildFolder",
+            "type": "promptString",
+            "description": "Digite o nome da pasta de build (ex: esp32)",
+            "default": "esp32"
+        }
+    ]
 }
